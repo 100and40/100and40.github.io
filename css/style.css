@@ -622,3 +622,12 @@ Custom styles.
   }
 }
 
+strong {
+  font-weight: bold;
+}
+
+em,
+i {
+  font-style: italic;
+}
+
