@@ -559,15 +559,6 @@ a {
   border-bottom: 1px dotted white;
 }
 
-#intro {
-  background: #777778;
-  color: white;
-}
-
-#intro a {
-  color: white;
-}
-
 .chunk {
   padding: 20px 10px;
   text-align: center;
@@ -579,6 +570,7 @@ a {
   font-size: 18px;
   font-size: 1.125rem;
 }
+
 @media only screen and (min-width: 1170px) {
   .chunk {
     padding: 40px 0;
@@ -597,6 +589,15 @@ section.chunk {
 
 section.chunk .heading {
   color: #444;
+}
+
+.dark-grey {
+  background: #777778;
+  color: white;
+}
+
+.dark-grey a {
+  color: white;
 }
 
 #nav {
