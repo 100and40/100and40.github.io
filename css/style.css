@@ -560,10 +560,10 @@ a {
 }
 
 .chunk {
-  padding: 20px 10px;
+  padding: 20px 15px;
   text-align: center;
   background: #303e49;
-  line-height: 1.2;
+  line-height: 1.8;
 }
 .chunk .heading {
   color: white;
@@ -574,7 +574,6 @@ a {
 @media only screen and (min-width: 1170px) {
   .chunk {
     padding: 40px 0;
-    line-height: 1.8;
   }
   .chunk .heading {
     font-size: 24px;
