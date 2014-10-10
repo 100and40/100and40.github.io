@@ -18,13 +18,13 @@ body {
   font-size: 100%;
   font-family: "Droid Serif", serif;
   color: #7f8c97;
-  background-color: #25455C;
+  background-color: #D3D3D3;
 }
 
 a {
   color: #acb7c0;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
 }
 
 img {
@@ -59,36 +59,7 @@ Modules - reusable parts of our design
 Main components
 
 -------------------------------- */
-.chunk {
-  padding: 20px 0;
-  text-align: center;
-  background: #303e49;
-  line-height: 1.2;
-}
-.chunk .heading {
-  color: white;
-  font-size: 18px;
-  font-size: 1.125rem;
-}
-@media only screen and (min-width: 1170px) {
-  .chunk {
-    padding: 40px 0;
-    line-height: 1.8;
-  }
-  .chunk .heading {
-    font-size: 24px;
-    font-size: 1.5rem;
-  }
-}
 
-section.chunk {
-  background-color: #f1f1f1;
-  color: #474747;
-}
-
-section.chunk .heading {
-  color: #444;
-}
 
 #cd-timeline {
   position: relative;
@@ -279,12 +250,13 @@ section.chunk .heading {
 .cd-timeline-content .cd-read-more {
   float: right;
   padding: .8em 1em;
-  background: #acb7c0;
+  background: #c90f40;
   color: white;
   border-radius: 0.25em;
+  border-bottom: 0;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
-  background-color: #bac4cb;
+  background-color: #A8002C;
 }
 .cd-timeline-content .cd-date {
   float: left;
@@ -574,8 +546,61 @@ Custom styles.
 }
 
 
+strong {
+  font-weight: bold;
+}
+
+em,
+i {
+  font-style: italic;
+}
+
+a {
+  border-bottom: 1px dotted white;
+}
+
+#intro {
+  background: #777778;
+  color: white;
+}
+
+#intro a {
+  color: white;
+}
+
+.chunk {
+  padding: 20px 10px;
+  text-align: center;
+  background: #303e49;
+  line-height: 1.2;
+}
+.chunk .heading {
+  color: white;
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+@media only screen and (min-width: 1170px) {
+  .chunk {
+    padding: 40px 0;
+    line-height: 1.8;
+  }
+  .chunk .heading {
+    font-size: 24px;
+    font-size: 1.5rem;
+  }
+}
+
+section.chunk {
+  background-color: #f1f1f1;
+  color: #474747;
+}
+
+section.chunk .heading {
+  color: #444;
+}
+
 #nav {
-  background-color: black;
+  background-color: #c90f40;
   text-align: center;
   font-size: 20px;
 }
@@ -588,6 +613,8 @@ Custom styles.
 #nav a {
   display: inline-block;
   padding: 18px 14px;
+  border-bottom: 0;
+  color: white;
 }
 
 
@@ -601,7 +628,7 @@ Custom styles.
 
 .year h3 {
   font-size: 20px;
-  color: white;
+  color: #303e49;
 }
 
 /*.year a {
@@ -609,6 +636,10 @@ Custom styles.
   top: -60px;
 }*/
 
+.cd-timeline-content a {
+  color: #535252;
+  border-color: #535252;
+}
 
 @media only screen and (min-width: 1170px) {
   #nav.is-fixed {
@@ -621,13 +652,3 @@ Custom styles.
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   }
 }
-
-strong {
-  font-weight: bold;
-}
-
-em,
-i {
-  font-style: italic;
-}
-
