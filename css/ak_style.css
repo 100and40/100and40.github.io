@@ -91,6 +91,10 @@ h1:after,
   margin-bottom: 1em;
 }
 
+.center-this a {
+	color: #c90f3f;
+}
+
 ul.skills li {
 	width:48%;
     float:left;
@@ -98,6 +102,9 @@ ul.skills li {
     font-weight: 300;
 }
 
+.center-this p.contact-item {
+	margin=bottom: 0.5em;
+}
 
 
 
