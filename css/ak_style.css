@@ -39,7 +39,7 @@ h1 {
 }
 
 h1:after {
-	content="";
+	content:"";
     display: block;
     float: left;
     clear: both;
