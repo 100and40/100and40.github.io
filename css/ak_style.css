@@ -305,4 +305,8 @@ left: -7px;
 	body {
     	font-size: 12px;
     }
+    .welcome h1 {
+  		font-weight: 400;
+  		margin-bottom: 0.5em;
+	}
 }
