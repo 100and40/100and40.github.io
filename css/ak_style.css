@@ -273,5 +273,6 @@ left: -7px;
     }
     .avatar p {
     	margin: 0;
+        float: none;
     }
 }
