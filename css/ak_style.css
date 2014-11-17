@@ -84,8 +84,7 @@ h1:after,
   line-height: 1.2;
   font-weight: 200;
 }
-.center-this p,
-.center-this li {
+.center-this p {
   font-size: 1.5em;
   font-weight: 300;
 }
@@ -93,6 +92,8 @@ h1:after,
 ul.skills li {
 	width:48%;
     float:left;
+    font-size: 1em;
+    font-weight: 300;
 }
 
 
