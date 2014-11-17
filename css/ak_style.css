@@ -107,12 +107,12 @@ ul.skills li {
 }
 
 .center-this p.contact-item {
-	margin=bottom: 0.5em;
+	margin-bottom: 0.5em;
 }
 
 span.contact-label {
 	float: left;
-    width: 200px;
+    width: 130px;
     display: block;
 }
 
