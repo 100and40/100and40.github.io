@@ -146,7 +146,9 @@ display:none;
 .timeline-head h2 {
 	color: #FFF;
 }
-
+#nav {
+background: #b90b38 !important;
+}
 
 
 
