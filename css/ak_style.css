@@ -265,4 +265,13 @@ left: -7px;
     }
 	.welcome {
   	}
+    .avatar {
+    	text-align: center;
+    }
+    .avatar img {
+    	float: none;
+    }
+    .avatar p {
+    	margin: 0;
+    }
 }
