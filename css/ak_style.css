@@ -136,6 +136,8 @@ a.btn:hover {
 }
 .timeline-head {
 color: #FFF;
+background: #c90f3f !important;
+border-bottom: 1px solid #FFF;
 }
 .timeline-head h2.h1:after {
 display:none;
