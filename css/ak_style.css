@@ -117,6 +117,15 @@ span.contact-label {
     font-weight: 400;
 }
 
+a.btn {
+  display: inline-block;
+  padding: .8em 1em;
+  background: #c90f3f;
+  color: #FFF;
+  border-radius: 0.25em;
+  border-bottom: 0;
+  font-weight: 400;
+}
 
 
 
