@@ -142,6 +142,10 @@ border-bottom: 1px solid #FFF;
 .timeline-head h2.h1:after {
 display:none;
 }
+.timeline-head p,
+.timeline-head h2 {
+	color: #FFF;
+}
 
 
 
