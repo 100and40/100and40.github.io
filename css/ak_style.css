@@ -311,7 +311,8 @@ left: -7px;
 	}
     a.btn,
     .cd-timeline-content p,
-    .cd-timeline-content .cd-read-more {
+    .cd-timeline-content .cd-read-more,
+    .dark-grey p {
     	font-size: 1.4em;
     }
     .timeline-head p {
