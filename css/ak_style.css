@@ -294,4 +294,7 @@ left: -7px;
     .chunk.new-pink {
     	padding: 50px 0 10px !important;
     }
+    .half.fl-left {
+    	border:none;
+    }
 }
