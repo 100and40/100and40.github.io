@@ -309,4 +309,18 @@ left: -7px;
   		font-weight: 400;
   		margin-bottom: 0.5em;
 	}
+    a.btn,
+    .cd-timeline-content p,
+    .cd-timeline-content .cd-read-more {
+    	font-size: 1.4em;
+    }
+    .timeline-head p {
+      font-size: 1.6em;
+      line-height: 1.2;
+      padding: 0 1em;
+      margin-top: 0.6em;
+    }
+    .cd-timeline-content h2 {
+    	font-size: 1.9em;
+    }
 }
