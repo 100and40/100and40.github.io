@@ -223,15 +223,18 @@ left: -7px;
 }
 
 .avatar img {
-	float: left;
-    display: block;
-    margin: 1em;
-    border-radius: 100%;
-    border: 5px solid #FFF;
-    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+  float: left;
+  display: block;
+  margin: 0 2em 1em 0;
+  border-radius: 100%;
+  border: 6px solid #FFF;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+  width: 160px;
+  height: 160px;
 }
 
 .avatar p {
-	float: left;
-    display: block;
+  float: left;
+  display: block;
+  margin: 2em 0 0;
 }
