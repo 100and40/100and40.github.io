@@ -36,7 +36,7 @@ background:#FFF;
 }
 
 .chunk.new-pink {
-padding: 25vh 0;
+padding: 25vh 0 !important
 }
 
 .welcome {
