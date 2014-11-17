@@ -20,6 +20,10 @@ body {
 	overflow: hidden;
 }
 
+.welcome {
+	text-align: left;
+}
+
 h1,
 h2,
 h3,
@@ -28,4 +32,17 @@ h5,
 .serif {
 	font-family: 'PT Serif', serif;
     font-weight: 600;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h1:after {
+	content="";
+    display: block;
+    float: left;
+    clear: both;
+    border-bottom: 3px solid;
+    width: 30px;
 }
