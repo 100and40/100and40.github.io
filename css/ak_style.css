@@ -127,6 +127,7 @@ a.btn {
   font-weight: 600;
   line-height: 1;
   font-size: 1.2em;
+  margin-top: 2em;
 }
 a.btn:hover {
 	text-decoration: none;
