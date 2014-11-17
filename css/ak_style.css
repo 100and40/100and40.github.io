@@ -124,9 +124,14 @@ a.btn {
   color: #FFF;
   border-radius: 0.25em;
   border-bottom: 0;
-  font-weight: 400;
+  font-weight: 600;
+  line-height: 1;
+  font-size: 1.2em;
 }
-
+a.btn:hover {
+	text-decoration: none;
+    background: #9E0A31;
+}
 
 
 
