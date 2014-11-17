@@ -282,4 +282,7 @@ left: -7px;
         width: auto;
         display: inline;
     }
+    .chunk {
+  	  padding: 40px 0 !important;
+    }
 }
