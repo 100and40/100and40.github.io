@@ -258,11 +258,11 @@ left: -7px;
 	.half {
 		width: 100%;
         text-align: center;
+        margin: 0 0 3em;
 	}
     h1:after, .h1:after {
     	display:none;
     }
 	.welcome {
-  		margin-top: 2em;
   	}
 }
