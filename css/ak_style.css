@@ -295,6 +295,6 @@ left: -7px;
     	padding: 50px 0 10px !important;
     }
     .half.fl-left {
-    	border:none;
+    	border:none !important;
     }
 }
