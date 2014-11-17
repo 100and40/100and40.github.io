@@ -160,7 +160,9 @@ background: #b90b38 !important;
 padding: 80px 0 !important;
 }
 
-
+#nav a {
+	padding: 25px 15px;
+}
 
 
 
