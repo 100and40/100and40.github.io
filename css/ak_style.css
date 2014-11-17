@@ -248,3 +248,7 @@ left: -7px;
 .dark-grey h1.heading:after {
 	display:none;
 }
+
+.dark-grey p {
+	font-size: 1.2em;
+}
