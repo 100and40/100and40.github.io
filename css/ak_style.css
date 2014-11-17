@@ -241,6 +241,10 @@ left: -7px;
   margin: 2em 0 0;
 }
 
+.dark-grey h1.heading {
+	font-size: 2em;
+}
+
 .dark-grey h1.heading:after {
 	display:none;
 }
