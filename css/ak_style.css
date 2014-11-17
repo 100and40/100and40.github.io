@@ -134,7 +134,7 @@ a.btn:hover {
 	text-decoration: none;
     background: #9E0A31;
 }
-.timeline-head {
+section.chunk.timeline-head {
 color: #FFF;
 background: #c90f3f !important;
 border-bottom: 1px solid #FFF;
