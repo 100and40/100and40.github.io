@@ -191,11 +191,11 @@ height: 25px;
 transform: rotate(45deg);
 top: 15px;
 position: absolute;
-left: -9px;
+left: -7px;
 }
 .cd-timeline-block:nth-child(odd) .cd-timeline-content:before {
 	left: auto;
-    right: -9px;
+    right: -7px;
 }
 
 
