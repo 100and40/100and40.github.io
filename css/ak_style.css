@@ -40,6 +40,10 @@ background:#FFF;
 padding: 25vh 0 !important
 }
 
+html.touch .chunk.new-pink {
+ padding: 3em 0 !important; 
+}
+
 .welcome {
 	text-align: left;
 }
