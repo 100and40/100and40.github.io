@@ -257,6 +257,7 @@ left: -7px;
 @media screen and (max-width: 830px) {
 	.half {
 		width: 100%;
+        text-align: center;
 	}
 
 }
