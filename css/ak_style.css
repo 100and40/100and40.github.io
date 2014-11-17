@@ -106,6 +106,7 @@ ul.skills li {
   float: left;
   font-size: 1.4em;
   font-weight: 400;
+  margin-bottom: 0.5em;
 }
 
 .center-this p.contact-item {
