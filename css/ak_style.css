@@ -209,3 +209,7 @@ left: -7px;
   font-size: 1em;
   font-weight: 600;
 }
+
+.year h3 {
+	font-size: 2em;
+}
