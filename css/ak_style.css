@@ -213,3 +213,18 @@ left: -7px;
 .year h3 {
 	font-size: 2em;
 }
+
+.avatar {
+
+}
+
+.avatar img {
+	float: left;
+    display: block;
+    margin: 1em;
+}
+
+.avatar p {
+	float: left;
+    display: block;
+}
