@@ -1,3 +1,13 @@
 .new-pink {
 	background: #c90f3f;
 }
+.half {
+	width: 48%;
+}
+.fl-left {
+	float: left;
+}
+
+.fl-right {
+	float: right;
+}
