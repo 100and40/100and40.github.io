@@ -39,10 +39,10 @@ h1 {
 }
 
 h1:after {
-	content:"";
-    display: block;
-    float: left;
-    clear: both;
-    border-bottom: 3px solid;
-    width: 30px;
+content: "";
+display: block;
+clear: both;
+border-bottom: 3px solid;
+width: 50px;
+margin-bottom: 0.4em;
 }
