@@ -95,6 +95,10 @@ h1:after,
 	color: #c90f3f;
 }
 
+.center-this a:hover {
+	text-decoration: underline;
+}
+
 ul.skills li {
 	width:48%;
     float:left;
