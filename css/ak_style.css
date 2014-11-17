@@ -270,6 +270,7 @@ left: -7px;
     }
     .avatar img {
     	float: none;
+        display: inline-block;
     }
     .avatar p {
     	margin: 0;
