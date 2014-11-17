@@ -285,4 +285,13 @@ left: -7px;
     .chunk {
   	  padding: 40px 0 !important;
     }
+    .cd-timeline-block:nth-child(even) .cd-timeline-content:before, 
+    .cd-timeline-block:nth-child(odd) .cd-timeline-content:before {
+    	left: -7px;
+        right: auto;
+        top: 12px;
+    }
+    .chunk.new-pink {
+    	padding: 50px 0 10px !important;
+    }
 }
