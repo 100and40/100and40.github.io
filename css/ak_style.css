@@ -259,5 +259,8 @@ left: -7px;
 		width: 100%;
         text-align: center;
 	}
+    h1:after, .h1:after {
+    	display:none;
+    }
 
 }
