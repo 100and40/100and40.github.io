@@ -138,6 +138,7 @@ a.btn:hover {
 color: #FFF;
 background: #c90f3f !important;
 border-bottom: 1px solid #FFF;
+padding: 40px 0;
 }
 .timeline-head h2.h1:after {
 display:none;
@@ -146,6 +147,12 @@ display:none;
 .timeline-head h2 {
 	color: #FFF;
 }
+.timeline-head p {
+	font-size: 1.3em;
+	margin: 1em 0;
+}
+
+
 #nav {
 background: #b90b38 !important;
 }
