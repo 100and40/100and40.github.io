@@ -46,3 +46,9 @@ border-bottom: 3px solid;
 width: 50px;
 margin-bottom: 0.4em;
 }
+
+.welcome h2 {
+	font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+}
+
