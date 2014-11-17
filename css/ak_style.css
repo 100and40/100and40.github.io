@@ -137,7 +137,9 @@ a.btn:hover {
 .timeline-head {
 color: #FFF;
 }
-
+.timeline-head h2.h1:after {
+display:none;
+}
 
 
 
