@@ -257,7 +257,7 @@ left: -7px;
 .dark-grey p {
 	font-size: 1.2em;
 }
-@media screen and (max-width: 1170) {
+@media screen and (max-width: 1170px) {
 	.cd-timeline-block:nth-child(even) .cd-timeline-content:before, 
     .cd-timeline-block:nth-child(odd) .cd-timeline-content:before {
     	left: -7px;
