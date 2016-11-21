@@ -572,5 +572,25 @@ section.chunk .heading {
   }
 }
 
+.entry-content embed, .entry-content iframe, .entry-content object {
+max-width: 100%;
+width: 65% !important;
+float: right;
+}
+
+@media (min-width: 768px) {
+    iframe.myiframe {
+        margin-left: 20px;
+
+    }
+}
+
+@media (max-width: 767px) {
+    iframe.myiframe {
+        float: none;
+        width: 100% !important;
+    }
+}
+
 
 
